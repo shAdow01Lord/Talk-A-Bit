@@ -10,6 +10,8 @@ Talk-A-Bit is a Full Stack Chatting App. Uses Socket.io for real time communicat
 
 **Database:** Mongo DB
 
+##DEMO
+![Screenshot 2023-04-08 215723](https://user-images.githubusercontent.com/83155049/230732284-2132456f-3c09-4457-b514-817043e56dc6.png)
 
 
 ## Run Locally
