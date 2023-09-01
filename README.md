@@ -4,11 +4,11 @@ Talk-A-Bit is a Full Stack Chatting App. It Uses Socket.io for real time communi
 
 # Tech Stack
 
-**Client:** React JS
+**Client:** React JS, Chakra UI
 
 **Server:** Node JS, Express JS
 
-**Database:** Mongo DB
+**Database:** Mongo DB (used Mongoose package for working) 
 
 
 # FRONTEND OF THE APP
